@@ -11,7 +11,7 @@
     - 开发LLM应用的整体流程
     - 项目架构简析
 
-2. [使用LLM API进行开发](./2.使用LLM API开发应用)
+2. [使用LLM API进行开发](./2.使用LLM%20API开发应用)
     - 基本概念
     - 使用LLM API
     - Prompt Engineering
